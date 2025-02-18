@@ -20,6 +20,16 @@ This repository contains my personal Obsidian vault for studying for the [CompTI
 - [04_Network-Security](./04_Network-Security/Network-Security.md)
 - [05_Network-Troubleshooting](./05_Network-Troubleshooting/Network-Troubleshooting.md)
 
+## OSI Layers
+
+- [[Application (Layer 7)]]
+- [[Presentation (Layer 6)]]
+- [[Session (Layer 5)]]
+- [[Transport (Layer 4)]]
+- [[Network (Layer 3)]]
+- [[Data Link (Layer 2)]]
+- [[Physical (Layer 1)]]
+
 ## Tips for Using This Vault in Obsidian
 
 - **Internal Links:**  

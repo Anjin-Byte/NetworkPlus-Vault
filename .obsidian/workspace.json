@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -197,10 +193,13 @@
       }
     ]
   },
-  "active": "281a1c0770300793",
+  "active": "5692daf120edc287",
   "lastOpenFiles": [
-    "02_Networking-Implementation/Networking-Implementation Relevant Chapters.md",
     "README.md",
+    "OSI Model Layers/5 Session/Session (Layer 5).md",
+    "01_Networking-Concepts/Networking-Concepts Relevant Chapters.md",
+    "Hub Pages/Objective Map.md",
+    "02_Networking-Implementation/Networking-Implementation Relevant Chapters.md",
     "01_Networking-Concepts/1.2 – Networking Appliances, Applications, and Functions/1.2 – Networking Appliances, Applications, and Functions.md",
     "01_Networking-Concepts/1.1 – OSI Model Concepts/1.1 – OSI Model Concepts.md",
     "02_Networking-Implementation/Networking-Implementation.md",
@@ -216,15 +215,12 @@
     "01_Networking-Concepts/1.3 – Cloud Concepts and Connectivity/1.3 – Cloud Concepts and Connectivity.md",
     "Chapters/Chapter 1.md",
     "01_Networking-Concepts/Networking-Concepts.md",
-    "01_Networking-Concepts/Networking-Concepts Relevant Chapters.md",
     "04_Network-Security/Network-Security.md",
     "05_Network-Troubleshooting/Network-Troubleshooting.md",
     "03_Network-Operations/Network-Operations.md",
     "05_Network-Troubleshooting/Network-Troubleshooting Relevant Chapters.md",
     "04_Network-Security/Network-Security Relevant Chapters.md",
     "03_Network-Operations/Network-Operations Relevant Chapters.md",
-    "05_Network-Troubleshooting/5.1/5.1.md",
-    "05_Network-Troubleshooting/5.5/5.5.md",
     "05_Network-Troubleshooting/5.5",
     "05_Network-Troubleshooting/5.4",
     "05_Network-Troubleshooting/5.3",
