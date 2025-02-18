@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc65a1af6dfff336",
+        "id": "2a712dc6387d5c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f50beaba3d3358f",
+            "id": "4d3767e29eedf5a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,12 +196,16 @@
   "active": "5692daf120edc287",
   "lastOpenFiles": [
     "README.md",
+    "03_Network-Operations/Network-Operations.md",
+    "02_Networking-Implementation/Networking-Implementation.md",
+    "02_Networking-Implementations/Networking-Implementations.md",
+    "02_Networking-Implementations",
+    "01_Networking-Concepts/Networking-Concepts.md",
+    "01_Networking-Fundamentals/Networking-Concepts.md",
+    "01_Networking-Fundamentals",
     "Welcome.md",
     "05_Network-Troubleshooting/Network-Troubleshooting.md",
     "04_Network-Security/Network-Security.md",
-    "03_Network-Operations/Network-Operations.md",
-    "02_Networking-Implementation/Networking-Implementation.md",
-    "01_Networking-Concepts/Networking-Concepts.md",
     "create a link.md",
     "05_Network-Troubleshooting",
     "04_Network-Security",
