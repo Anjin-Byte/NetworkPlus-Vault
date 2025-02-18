@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c036eef45a51086",
+        "id": "fc65a1af6dfff336",
         "type": "tabs",
         "children": [
           {
-            "id": "5692daf120edc287",
+            "id": "4f50beaba3d3358f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "71afe53b09ba9362",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6bd72c6e98c5cd7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "README"
             }
           }
         ]
@@ -109,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -154,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -178,9 +158,56 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "65e1c814061c4890",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4f77129f090b1161",
+        "type": "window",
+        "children": [
+          {
+            "id": "0b2f5070f9404ff2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5692daf120edc287",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -947,
+        "y": -626,
+        "width": 1080,
+        "height": 833,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5692daf120edc287",
   "lastOpenFiles": [
-    "LICENSE",
-    "Welcome.md"
+    "README.md",
+    "Welcome.md",
+    "05_Network-Troubleshooting/Network-Troubleshooting.md",
+    "04_Network-Security/Network-Security.md",
+    "03_Network-Operations/Network-Operations.md",
+    "02_Networking-Implementation/Networking-Implementation.md",
+    "01_Networking-Concepts/Networking-Concepts.md",
+    "create a link.md",
+    "05_Network-Troubleshooting",
+    "04_Network-Security",
+    "01_Networking-Concepts",
+    "03_Network-Operations",
+    "02_Networking-Implementation",
+    "LICENSE"
   ]
 }
