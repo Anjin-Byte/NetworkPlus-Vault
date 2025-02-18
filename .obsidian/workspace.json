@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -136,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ]
@@ -193,9 +197,12 @@
       }
     ]
   },
-  "active": "5692daf120edc287",
+  "active": "281a1c0770300793",
   "lastOpenFiles": [
+    "OSI Model Layers/7 Application/Application (Layer 7).md",
     "README.md",
+    "05_Network-Troubleshooting/Network-Troubleshooting.md",
+    "OSI Model Layers/1 Physical/Physical (Layer 1).md",
     "OSI Model Layers/5 Session/Session (Layer 5).md",
     "01_Networking-Concepts/Networking-Concepts Relevant Chapters.md",
     "Hub Pages/Objective Map.md",
@@ -216,11 +223,8 @@
     "Chapters/Chapter 1.md",
     "01_Networking-Concepts/Networking-Concepts.md",
     "04_Network-Security/Network-Security.md",
-    "05_Network-Troubleshooting/Network-Troubleshooting.md",
     "03_Network-Operations/Network-Operations.md",
     "05_Network-Troubleshooting/Network-Troubleshooting Relevant Chapters.md",
-    "04_Network-Security/Network-Security Relevant Chapters.md",
-    "03_Network-Operations/Network-Operations Relevant Chapters.md",
     "05_Network-Troubleshooting/5.5",
     "05_Network-Troubleshooting/5.4",
     "05_Network-Troubleshooting/5.3",

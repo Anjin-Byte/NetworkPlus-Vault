@@ -22,13 +22,13 @@ This repository contains my personal Obsidian vault for studying for the [CompTI
 
 ## OSI Layers
 
-- [[Application (Layer 7)]]
-- [[Presentation (Layer 6)]]
-- [[Session (Layer 5)]]
-- [[Transport (Layer 4)]]
-- [[Network (Layer 3)]]
-- [[Data Link (Layer 2)]]
-- [[Physical (Layer 1)]]
+- [Application](obsidian://open?vault=Network%2B&file=OSI%20Model%20Layers%2F7%20Application%2FApplication%20(Layer%207))
+- [Presentation](./OSI Model Layers/6 Presentation/Presentation (Layer 6).md)
+- [Session](./OSI Model Layers/5 Session/Session (Layer 5).md)
+- [Transport](./OSI Model Layers/4 Transport/Transport (Layer 4).md)
+- [Network](./OSI Model Layers/3 Network/Network (Layer 3).md)
+- [Data Link](./OSI Model Layers/2 Data Link/Data Link (Layer 2).md)
+- [Physical (Layer 1)](./OSI Model Layers/1 Physical/Physical (Layer 1).md)
 
 ## Tips for Using This Vault in Obsidian
 
