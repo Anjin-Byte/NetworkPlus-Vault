@@ -1,0 +1,3 @@
+- Physical mediums/specs (cables, fiber, radio) 
+- Electrical signals, voltage levels, light pulses 
+- [[SONET]], [[DSL]], [[Bluetooth]], [[802.11 RF]] (physical layer specs)

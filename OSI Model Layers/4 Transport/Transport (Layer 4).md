@@ -1,0 +1,3 @@
+- **[[TCP]]** (reliable, connection-oriented) 
+- **[[UDP]]** (unreliable, connectionless) 
+- [[SCTP]], [[DCCP]] (less common)

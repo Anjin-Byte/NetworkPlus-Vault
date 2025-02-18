@@ -1,0 +1,3 @@
+- **[[IP]]** ([[IPv4]], [[IPv6]]), **[[ICMP]]** (ping, traceroute), **[[IGMP]]** 
+- [[ARP]]/[[RARP]] (though often considered between L2/L3) 
+- Routing protocols ([[OSPF]], [[EIGRP]], [[RIP]], [[BGP]]

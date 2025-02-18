@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a712dc6387d5c8e",
+        "id": "ffdca9a72b088292",
         "type": "tabs",
         "children": [
           {
-            "id": "4d3767e29eedf5a2",
+            "id": "2570af57612accff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "04_Network-Security/Network-Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Network-Security"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "81b043ab48b5f331",
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04_Network-Security/Network-Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Network-Security"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_Network-Security/Network-Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Network-Security"
             }
           },
           {
@@ -136,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "04_Network-Security/Network-Security.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Network-Security"
             }
           }
         ]
@@ -193,25 +197,43 @@
       }
     ]
   },
-  "active": "5692daf120edc287",
+  "active": "2570af57612accff",
   "lastOpenFiles": [
-    "README.md",
-    "03_Network-Operations/Network-Operations.md",
-    "02_Networking-Implementation/Networking-Implementation.md",
-    "02_Networking-Implementations/Networking-Implementations.md",
-    "02_Networking-Implementations",
-    "01_Networking-Concepts/Networking-Concepts.md",
-    "01_Networking-Fundamentals/Networking-Concepts.md",
-    "01_Networking-Fundamentals",
-    "Welcome.md",
     "05_Network-Troubleshooting/Network-Troubleshooting.md",
     "04_Network-Security/Network-Security.md",
-    "create a link.md",
-    "05_Network-Troubleshooting",
-    "04_Network-Security",
-    "01_Networking-Concepts",
-    "03_Network-Operations",
-    "02_Networking-Implementation",
-    "LICENSE"
+    "03_Network-Operations/Network-Operations.md",
+    "02_Networking-Implementation/Networking-Implementation.md",
+    "01_Networking-Concepts/Networking-Concepts.md",
+    "05_Network-Troubleshooting/Network-Troubleshooting Relevant Chapters.md",
+    "04_Network-Security/Network-Security Relevant Chapters.md",
+    "03_Network-Operations/Network-Operations Relevant Chapters.md",
+    "02_Networking-Implementation/Networking-Implementation Relevant Chapters.md",
+    "01_Networking-Concepts/Networking-Concepts Relevant Chapters.md",
+    "02_Networking-Implementation/2.1/2.1.md",
+    "05_Network-Troubleshooting/5.1/5.1.md",
+    "05_Network-Troubleshooting/5.5/5.5.md",
+    "05_Network-Troubleshooting/5.4/5.4.md",
+    "05_Network-Troubleshooting/5.3/5.3.md",
+    "Chapters/Chapter 3.md",
+    "05_Network-Troubleshooting/5.2/5.2.md",
+    "04_Network-Security/4.3/4.3.md",
+    "04_Network-Security/4.2/4.2.md",
+    "04_Network-Security/4.1/4.1.md",
+    "Chapters/Chapter 19.md",
+    "Chapters/Chapter 20.md",
+    "Chapters/Chapter 21.md",
+    "Chapters/Chapter 18.md",
+    "03_Network-Operations/3.5/3.5.md",
+    "03_Network-Operations/3.4/3.4.md",
+    "05_Network-Troubleshooting/5.5",
+    "05_Network-Troubleshooting/5.4",
+    "05_Network-Troubleshooting/5.3",
+    "05_Network-Troubleshooting/5.2",
+    "05_Network-Troubleshooting/5.1",
+    "04_Network-Security/4.3",
+    "04_Network-Security/4.2",
+    "04_Network-Security/4.1",
+    "03_Network-Operations/3.5",
+    "03_Network-Operations/3.4"
   ]
 }
