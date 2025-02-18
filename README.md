@@ -9,10 +9,10 @@ This repository contains my personal Obsidian vault for studying for the [CompTI
 
 - **In Obsidian:**  
   Open the repository folder as a vault in Obsidian. Obsidian supports internal wiki-links (using `[[...]]`) so you can navigate your notes easily. For example, inside Obsidian, you can link to a note like:  
-  `[[01_Networking-Concepts/1.1_Protocols-and-Ports]]`  
+  `[[01_Networking-Concepts/1.1 – OSI Model Concepts/1.1 – OSI Model Concepts]]`  
   *Note: While GitHub doesn’t render these double-bracket links as clickable links, they are fully functional within Obsidian.*
 
-## Table of Contents
+## Objective Map
 
 - [01_Networking-Concepts](./01_Networking-Concepts/Networking-Concepts.md)
 - [02_Networking-Implementation](./02_Networking-Implementation/Networking-Implementation.md)
@@ -24,7 +24,7 @@ This repository contains my personal Obsidian vault for studying for the [CompTI
 
 - **Internal Links:**  
   Use Obsidian’s internal linking format for seamless navigation. For example, to open the note on OSI Model, type:  
-  `[[01_Networking-Concepts/1.2_OSI-Model]]`
+  `[[01_Networking-Concepts/2.1 – Characteristics of Routing Technologies/2.1 – Characteristics of Routing Technologies]]`
 
 - **Search & Graph View:**  
   Leverage Obsidian’s search and graph view features to discover connections between topics.
